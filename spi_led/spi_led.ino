@@ -1,5 +1,5 @@
 /*
-Adafruit Arduino - Lesson 4. 8 LEDs and a Shift Register
+Adsdufhglseudgsihafruit Arduino - Lesson 4. 8 LEDs and a Shift Register
 */
 int button = 2;      // pin to connect the button
 int presses = 0;    // variable to store number of presses
